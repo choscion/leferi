@@ -20,7 +20,7 @@ footer{
         width: 27px;height: 33px;
         opacity: 0;visibility: hidden;
         transition: .7s ease-in-out;
-        background: url(/asset/images/icons/top-arrow.png) center/100% no-repeat;
+        background: url(../images/icons/top-arrow.png) center/100% no-repeat;
         &.show{
             opacity: 1;visibility: visible;
         }
@@ -31,7 +31,7 @@ footer{
     .logo{
         width: 163px;height: 26px;
         margin-right: 27%;
-        background: url(/asset/images/logo/logo.png) left 0 top 0/100% no-repeat;
+        background: url(../images/logo/logo.png) left 0 top 0/100% no-repeat;
         a{
             display: block;height: 100%;
         }

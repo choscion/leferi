@@ -969,9 +969,6 @@ main{
         }
         @include desktop{
             padding-top: 700px;
-            .bg-txt-over{
-                // bottom: 300px;left: -100px;
-            }
         }
     }
     @include tablet{
@@ -1157,7 +1154,7 @@ main{
             display: inline-block;
             width: 56px;height: 56px;
             border-radius: 50%;
-            background: url(/asset/images/bg/arrow-bg.png) no-repeat;
+            background: url(../images/bg/arrow-bg.png) no-repeat;
             background-size: 100% auto;
             &.prev{
                 margin-left: -60px;
