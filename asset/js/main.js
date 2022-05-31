@@ -161,7 +161,6 @@ ScrollTrigger.matchMedia({
         //sc-news 슬라이드
         var slide01 = new Swiper(".slide01", {
             slidesPerView: 2,
-            // spaceBetween: 30,
             pagination: {
               el: ".swiper-pagination",
               type: "progressbar",
@@ -194,7 +193,6 @@ ScrollTrigger.matchMedia({
           //sc-news 슬라이드
           var slide01 = new Swiper(".slide01", {
             slidesPerView: 1,
-            // loop:true,
             pagination: {
               el: ".swiper-pagination",
               type: "progressbar",
